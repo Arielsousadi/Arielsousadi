@@ -28,14 +28,13 @@ Mindset: Discipline • Consistency • Evolution
 ## 📊 Analytics
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Arielsousadi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielsousadi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielsousadiO&theme=github-dark-blue&hide_border=true"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=Arielsousadi&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## ⚙️ Tech Stack
