@@ -1,70 +1,93 @@
 <h1 align="center">Ariel Sousa</h1>
 
 <p align="center">
-  <i>Redes • Cibersegurança • Desenvolvimento de Sistemas</i>
+  <i>Networks • Cybersecurity • Systems Development</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1c,100:1b2a41&height=120&section=header"/>
 </p>
 
 <p align="center">
-  <b>Building knowledge. Improving every day.</b>
+  <b>Be welcome.</b>
 </p>
 
 ---
 
-## About
+## 🧠 Profile
 
-Estudante focado em redes de computadores, segurança da informação e desenvolvimento de sistemas.  
-Aprendendo através de prática, projetos e disciplina.
 
----
+Name: Ariel Sousa
+Focus: Networks | Cybersecurity | Systems
+Status: Learning & Building
+Mindset: Discipline • Consistency • Evolution
 
-## Focus
-Redes █████████░░
-Segurança ████████░░░
-Sistemas █
 
 ---
 
-## Technologies
-HTML CSS Git GitHub Linux
-Nmap VLAN Packet Tracer
-
----
-
-## Projects
-
-- Sistema de denúncia  
-- Redes com VLAN  
-- Projetos práticos de estudo  
-
----
-
-## Stats
+## 📊 Analytics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark&hide_border=true"/>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## Contact
-Email:arielsousadev.com
+## ⚙️ Tech Stack
 
-LinkedIn: seu-linkedin
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,vscode" />
+</p>
+
+
+Networking: VLAN • Switching • Packet Tracer
+Security: Nmap • Basic Security • Cryptography
+
+
 ---
 
+## 🗂️ Projects
+
+
+[01] Abuse Report System
+[02] VLAN Network Lab
+[03] Study Projects & Simulations
+
+
+---
+
+## 🌐 Connect
+
 <p align="center">
-  <i>"Disciplina e constância."</i>
+  <a href="#"><img src="https://img.shields.io/badge/email-0a0f1c?style=for-the-badge&logo=gmail&logoColor=blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+</p>
+
+---
+
+## 🧬 Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3b82f6&center=true&vCenter=true&width=400&lines=Learning+Networks...;Studying+Cybersecurity...;Building+Systems..."/>
+</p>
+
+---
+
+## 🎴
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-lain.gif" width="120"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer"/>
+  <i>"Discipline and consistency."</i>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b2a41,100:0a0f1c&height=120&section=footer"/>
+</p>
