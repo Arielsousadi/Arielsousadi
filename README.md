@@ -33,7 +33,7 @@ Mindset: Discipline • Consistency • Evolution
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true"/>
+  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=ArielsousadiO&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
