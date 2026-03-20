@@ -63,21 +63,22 @@ Security: Nmap • Basic Security • Cryptography
 ## 🌐 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/email-0a0f1c?style=for-the-badge&logo=gmail&logoColor=blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+  <a href="mailto:ariel.sousa@gmail.com">
+    <img src="https://img.shields.io/badge/email-0a0f1c?style=for-the-badge&logo=gmail&logoColor=blue">
+  </a>
+  <a href="https://www.linkedin.com/in/ariel-sousa-3265b03b5">
+    <img src="https://img.shields.io/badge/linkedin-0a0f1c?style=for-the-badge&logo=linkedin&logoColor=blue">
+  </a>
 </p>
 
 ---
-
-## 🧬 Status
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=3b82f6&center=true&vCenter=true&width=400&lines=Learning+Networks...;Studying+Cybersecurity...;Building+Systems..."/>
 </p>
 
 ---
 
-## 🎴
+## 
 
 <p align="center">
   <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-lain.gif" width="120"/>
