@@ -1,63 +1,70 @@
 <h1 align="center">Ariel Sousa</h1>
 
 <p align="center">
-  Redes • Cibersegurança • Desenvolvimento de Sistemas
+  <i>Redes • Cibersegurança • Desenvolvimento de Sistemas</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=120&section=header"/>
+</p>
+
+<p align="center">
+  <b>Building knowledge. Improving every day.</b>
 </p>
 
 ---
 
-## Sobre
+## About
 
-Estudante de tecnologia com foco em redes, segurança da informação e desenvolvimento de sistemas.  
-Buscando evolução constante através de prática, disciplina e projetos reais.
-
----
-
-## Áreas de Interesse
-
-- 🖧 Redes de Computadores  
-- 🔐 Cibersegurança  
-- 💻 Desenvolvimento de Sistemas  
+Estudante focado em redes de computadores, segurança da informação e desenvolvimento de sistemas.  
+Aprendendo através de prática, projetos e disciplina.
 
 ---
 
-## Tecnologias
-
-**Desenvolvimento**  
-HTML, CSS  
-
-**Redes**  
-Packet Tracer, VLAN, Switching  
-
-**Segurança**  
-Nmap, conceitos de segurança, criptografia  
-
-**Ferramentas**  
-Git, GitHub, VS Code  
+## Focus
+Redes █████████░░
+Segurança ████████░░░
+Sistemas █
 
 ---
 
-## Projetos
-
-- Sistema de denúncia contra abuso  
-- Configuração de redes com VLAN  
-- Protótipos de aplicações e jogos educativos  
+## Technologies
+HTML CSS Git GitHub Linux
+Nmap VLAN Packet Tracer
 
 ---
 
-## Objetivo
+## Projects
 
-Construir uma carreira sólida nas áreas de tecnologia e segurança, aplicando conhecimento técnico em cenários reais e de impacto.
+- Sistema de denúncia  
+- Redes com VLAN  
+- Projetos práticos de estudo  
 
 ---
 
-## Contato
+## Stats
 
-Email: seuemail@email.com  
-LinkedIn: (adicione aqui)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+Email:arielsousadev.com
+
+LinkedIn: seu-linkedin
 ---
 
 <p align="center">
-  "Disciplina e constância."
+  <i>"Disciplina e constância."</i>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0d1117&height=120&section=footer"/>
+</p>
+
