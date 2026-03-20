@@ -22,7 +22,6 @@ Focus: Networks | Cybersecurity | Systems
 Status: Learning & Building
 Mindset: Discipline • Consistency • Evolution
 
-
 ---
 
 ## 📊 Analytics
@@ -35,6 +34,7 @@ Mindset: Discipline • Consistency • Evolution
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=Arielsousadi&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## ⚙️ Tech Stack
